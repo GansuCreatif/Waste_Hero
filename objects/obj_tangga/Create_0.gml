@@ -1,0 +1,1 @@
+nama_ruangan_tujuan = room_Kota_Sipfi2;
